@@ -1,4 +1,3 @@
-Subject: README.md – Movie Recommendation System
 
 # 🎬 Movie Recommendation System
 
@@ -163,3 +162,4 @@ Computer Science Student
 ## 🏁 Conclusion
 
 This project demonstrates how machine learning techniques can be used to build a **movie recommendation system** that provides personalized suggestions based on content similarity.
+
